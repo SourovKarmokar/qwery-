@@ -252,5 +252,25 @@ li {
 /* OUTHER PART END */
 
 /* INDONESIAN CULTURE START */
+#indonesian .indonesian-wrapp {
+    display: flex;
+    margin-top: 295px;
+}
 
-/* INDONESIAN CULTURE END */
+#indonesian .indonesian-wrapp .indonesianl-left h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: auto;
+    /* Assuming 'auto' is intended */
+    letter-spacing: 6px;
+    text-align: left;
+    /* Assuming left alignment based on the first alignment icon */
+    color: #FBD784;
+    /* Text fill color */
+    opacity: 1;
+    /* 100% opacity */
+    margin-top: 153px;
+}
+
+    /* INDONESIAN CULTURE END */
