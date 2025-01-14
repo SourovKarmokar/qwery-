@@ -273,4 +273,37 @@ li {
     margin-top: 153px;
 }
 
-    /* INDONESIAN CULTURE END */
+#indonesian .indonesian-wrapp .indonesianl-left h1 {
+    font-family: "Open Sans", serif;
+    font-weight: bold;
+    font-size: 64px;
+    text-transform: uppercase;
+    
+
+}
+
+#indonesian .indonesian-wrapp .indonesianl-left button {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    /* Weight: Bold */
+    font-size: 18px;
+    /* Size: 18px */
+    line-height: normal;
+    /* Assuming 'Auto' means normal line height */
+    letter-spacing: 0px;
+    /* Letter spacing: 0px */
+    text-align: center;
+    /* Adjust as needed: left, center, right */
+    align-items: center;
+    color: #FBD784;
+    /* Fill color */
+    opacity: 1;
+    /* 100% opacity */
+    background-color: transparent;
+    margin: auto;
+
+}
+
+
+
+/* INDONESIAN CULTURE END */
